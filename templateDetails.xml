@@ -16,6 +16,7 @@
         <folder>video</folder>
         <folder>scripts</folder>
 		<folder>styles</folder>
+		<folder>css</folder>
         <filename>template_preview.png</filename>
 		<filename>template_thumbnail.png</filename>
         <filename>favicon.ico</filename>
