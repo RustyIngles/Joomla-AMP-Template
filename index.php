@@ -27,7 +27,6 @@ $title = $doc->getTitle();
     <meta property="og:image" content="https://www.homeprotect.co.uk/images/social/social_homeprotect_logo.png" />
     <meta name="google-site-verification" content="3GQRUzXvuIvLCeu_lo8yM7M9LJpvReNJlgWFjkitfHg"/>
     <title><?php echo "$title" ?></title>
-    <link href="amp-home/amp" rel="amphtml">
     <link rel="canonical" href="https://www.homeprotect.co.uk">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <link href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template;?>/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
