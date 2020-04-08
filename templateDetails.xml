@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template">
+	<name>HomeProtect - AMP Homepage</name>
+	<creationDate>01-04-2020</creationDate>
+	<author>Russell English</author>
+	<authorEmail>russell.english@stormit.co.uk</authorEmail>
+	<authorUrl>https://www.stormit.co.uk</authorUrl>
+	<copyright>Storm 2020</copyright>
+	<license>GNU/GPL</license>
+	<version>1.1.0</version>
+	<description>HomeProtect AMP Homepage</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+        <folder>video</folder>
+        <folder>scripts</folder>
+		<folder>styles</folder>
+        <filename>template_preview.png</filename>
+		<filename>template_thumbnail.png</filename>
+        <filename>favicon.ico</filename>
+        <filename>apple-touch-icon.png</filename>
+        
+	</files>
+	<positions>
+		<position>breadcrumb</position>
+		<position>left</position>
+		<position>right</position>
+		<position>top</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>footer</position>
+	</positions>
+</extension>

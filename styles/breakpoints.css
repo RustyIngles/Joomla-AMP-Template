@@ -1,0 +1,48 @@
+/* Smartphones (portrait) (ie: Galaxy 1) */
+@media only screen and (max-width : 321px) {
+    .tablet-nav {
+        display: none;
+    }
+}
+
+/* Big smartphones (portrait) (ie: Galaxy 3 has 360)*/
+@media only screen and (max-width : 640px) {
+    .tablet-nav {
+        display: none;
+    }
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (max-width : 768px) {
+    .tablet-nav {
+        display: none;
+    }
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (max-width : 1024px) {
+
+    header nav ul.desktop-nav li:nth-child(1),
+    header nav ul.desktop-nav li:nth-child(2) {
+        display: none;
+    }
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (max-width : 1224px) {
+
+    header nav ul.desktop-nav li:nth-child(1),
+    header nav ul.desktop-nav li:nth-child(2) {
+        display: none;
+    }
+}
+
+/* Desktops and laptops ----------- */
+@media only screen and (max-width : 1824px) {}
+
+/* Large screens ----------- */
+/*some CSS*/
+
+.tablet-nav {
+    display: none;
+}
