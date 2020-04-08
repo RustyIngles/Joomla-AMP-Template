@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="2.5" type="template">
 	<name>HomeProtect - AMP Homepage</name>
-	<creationDate>01-04-2020</creationDate>
+	<creationDate>2020-04-01</creationDate>
 	<author>Russell English</author>
 	<authorEmail>russell.english@stormit.co.uk</authorEmail>
 	<authorUrl>https://www.stormit.co.uk</authorUrl>
 	<copyright>Storm 2020</copyright>
 	<license>GNU/GPL</license>
-	<version>1.1.0</version>
+	<version>1.0.0</version>
 	<description>HomeProtect AMP Homepage</description>
 	<files>
 		<filename>index.php</filename>
@@ -23,14 +23,19 @@
         
 	</files>
 	<positions>
-		<position>breadcrumb</position>
-		<position>left</position>
-		<position>right</position>
-		<position>top</position>
+		<position>logo</position>
+		<position>links</position>
+		<position>menu</position>
 		<position>user1</position>
 		<position>user2</position>
 		<position>user3</position>
 		<position>user4</position>
 		<position>footer</position>
+		<position>hero</position>
+		<position>blue</position>
+		<position>reviews</position>
+		<position>testimonials</position>
+		<position>everyone</position>
+		<position>pink</position>
 	</positions>
 </extension>
